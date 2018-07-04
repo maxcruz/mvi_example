@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MVI Example</string>
+    <string name="button_quote">Get Quote</string>
+    <string-array name="quotes">
+        <item>What is the meaning of life, the universe and everything? 42. The Hitchhiker's Guide to the Galaxy</item>
+        <item>Maybe ever\'body in the whole damn world is scared of each other. Of Mice And Men</item>
+        <item>Life is to be lived, not controlled; and humanity is won by continuing to play in face of certain defeat. Invisible Man</item>
+        <item>It was a bright cold day in April, and the clocks were striking thirteen. 1984</item>
+        <item>We were the people who were not in the papers. We lived in the blank white spaces at the edges of print. It gave us more freedom. We lived in the gaps between the stories. The Handmaid\'s Tale</item>
+        <item>It sounds plausible enough tonight, but wait until tomorrow. Wait for the common sense of the morning. The Time Machine</item>
+        <item>You forget what you want to remember, and you remember what you want to forget. The Road</item>
+        <item>Finally, from so little sleeping and so much reading, his brain dried up and he went completely out of his mind. Don Quixote</item>
+        <item>Memories warm you up from the inside. But they also tear you apart. Kafka on the Shore</item>
+        <item>It is a great misfortune to be alone, my friends; and it must be believed that solitude can quickly destroy reason. The Mysterious Island</item>
+        <item>No man, for any considerable period, can wear one face to himself and another to the multitude, without finally getting bewildered as to which may be the true. The Scarlet Letter</item>
+        <item>Nowadays people know the price of everything and the value of nothing. The Picture Of Dorian Gray</item>
+        <item>Nothing is so painful to the human mind as a great and sudden change. Frankenstein</item>
+        <item>It doesn\'t matter who you are or what you look like, so long as somebody loves you. The Witches</item>
+        <item>She says nothing at all, but simply stares upward into the dark sky and watches, with sad eyes, the slow dance of the infinite stars. Stardust</item>
+        <item>I know not all that may be coming, but be it what it will, I\'ll go to it laughing. Moby Dick</item>
+        <item>It\'s enough for me to be sure that you and I exist at this moment. One Hundred Years of Solitude</item>
+    </string-array>
+</resources>
